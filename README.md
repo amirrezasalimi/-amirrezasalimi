@@ -1,16 +1,16 @@
-<img align="right" width="300" src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif">
+## 👋  What's up! My name is Amirreza, and welcome to my profile! 
 
-## 👋  What's up! My name is Lucas, and welcome to my profile! 
 
-I am majoring in Computer Science at UECE (9/9) 💻, i have been working with software development since 2018, mainly using JavaScript / TypeScript, ReactJS, NodeJS, and Flutter 😍 
+I have been working with software development in 5 years, mainly using JavaScript / TypeScript, ReactJS/NextJS, NodeJS, and Flutter
 
 ## About Me
 
-🌎 I'm from Fortaleza, CE - Brazil 🇧🇷
+🎮 I love to play, and watch sci-fi movies 😀
 
-🎮 I love to play, and watch some anime 😆
-
-📚 I am also studying English daily (text 📖 + audio 🎧)
+📚 I am also studying English
 
 ## My Social Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/lucas-de-oliveira-mesquita/&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-mesquita/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/amirreza-salimi-884b4517a/&logoColor=white)](https://www.linkedin.com/in/amirreza-salimi-884b4517a/)
+
+## Contact
+Telegram : [@Amir_s365](https://t.me/amir_s365/)
