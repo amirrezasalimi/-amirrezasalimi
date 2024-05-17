@@ -4,7 +4,7 @@ I've been coding for more than 5 years, focusing on JavaScript/TypeScript, React
 
 ### About Me
 
-🎮 Love gaming and sci-fi movies.
+🎮 Love gaming, sci-fi movies and making indie projects.
 
 ### Connect
 
