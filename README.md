@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Amirreza!
 
-I've been coding for more than 5 years, focusing on JavaScript/TypeScript, ReactJS/NextJS, NodeJS.
+I've been coding for more than 6 years, focusing on JavaScript/TypeScript, ReactJS/NextJS, NodeJS.
 
 ### About Me
 
