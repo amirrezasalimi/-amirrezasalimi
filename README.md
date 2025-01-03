@@ -1,61 +1,38 @@
 ## 👋 Hello, I'm Amirreza!  
 
-I'm a software engineer with 6+ years of experience crafting scalable, high-performance web applications and AI-driven platforms. My work revolves around modern JavaScript/TypeScript ecosystems, front-end frameworks, and innovative AI applications. I thrive on building tools that empower developers and solve real-world challenges.
+I'm a software engineer with 6+ years of experience building scalable web apps and AI-powered platforms. My expertise lies in JavaScript/TypeScript ecosystems, frontend frameworks, and integrating AI into real-world solutions.
 
 ---
 
 ### 🚀 Core Expertise  
-
-#### **Frontend Development:**  
-- **Languages & Frameworks:** TypeScript, React.js, Next.js, Remix, Tailwind CSS, Material UI, Shadcn.  
-- **Features:** Responsive design, PWA development, animation with Framer Motion, state management (Zustand, React Query).  
-- **Real-Time Collaboration:** Yjs + PartyKit integration for collaborative applications.  
-
-#### **Backend & Full Stack Development:**  
-- **Backend Tech:** Node.js, Express, SQLite, Supabase, PocketBase, Stripe.  
-- **DevOps:** Docker, Traefik, Coolify, Cloudflare, Vercel for CI/CD and deployment.  
-
-#### **AI Integration:**  
-- **Specialized Skills:** Prompt crafting, LLMs (Large Language Models), and synthetic data pipelines.  
-- **Focus Areas:** Building AI frameworks, tools, and enhancing user interactions through AI-driven features.
+- **Frontend:** TypeScript, React.js, Next.js, Remix, Tailwind CSS, Material UI, Framer Motion, Yjs + PartyKit.  
+- **Backend:** Node.js, Express, SQLite, Supabase, PocketBase, Stripe.  
+- **DevOps:** Docker, Traefik, Cloudflare, Vercel (CI/CD).  
+- **AI Integration:** Prompt crafting, LLMs, synthetic data pipelines.  
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Key Projects  
 
 #### **1. Swarms Platform** ([GitHub](https://github.com/The-Swarm-Corporation/swarms-platform) | [Website](https://swarms.world))  
-- Developed a powerful AI platform similar to OpenAI's offerings.  
-- **Tech Stack:** Next.js, Tailwind, Supabase, Stripe.  
-- **Key Achievements:**  
-  - Designed and implemented a scalable frontend with modern UI/UX.  
-  - Integrated seamless database management and payment processing.  
-  - Deployed on Vercel for optimal performance and reliability.  
+AI platform like OpenAI's with scalable design, Supabase, and Stripe integration.  
 
 #### **2. Friday Agents** ([GitHub](https://github.com/amirrezasalimi/friday-agents))  
-- Built a modular JavaScript framework for AI-driven applications with multi-agent architecture.  
-- **Features:**  
-  - Core TypeScript library with a Remix-based demo app.  
-  - Real-time updates, online search, code execution, and image generation capabilities.  
-- **Key Impact:** A flexible and extensible solution for developers building AI applications.
+Framework enabling multi-agent AI apps with real-time updates and advanced features.  
 
 #### **3. Synthify** ([GitHub](https://github.com/amirrezasalimi/synthify))  
-- Open-source no-code tool for building AI datasets.  
-- **Key Achievements:**  
-  - Enabled streamlined workflows with JSON extraction and function calling.  
-  - Enhanced usability with prebuilt templates and easy task automation.
+No-code tool simplifying AI dataset creation with workflows and automation.  
 
 #### **4. ShadesAI** ([GitHub](https://github.com/amirrezasalimi/shades))  
-- An AI-powered Figma plugin for creating tailored color palettes.  
-- **Focus Areas:** Streamlining the creative process for designers working on new or existing projects.
+AI-powered Figma plugin generating tailored color palettes for designers.  
 
 #### **5. AI Roadmap Generator** ([GitHub](https://github.com/amirrezasalimi/ai-roadmap-generator))  
-- Web application to generate detailed, AI-powered roadmaps for projects and learning paths.  
-- Leveraged cutting-edge tech to enhance user experience and accessibility.
+Web app for creating AI-driven project and learning roadmaps.  
 
 ---
 
 ### 🎮 About Me  
-Beyond coding, I love gaming, sci-fi movies, and creating indie projects that push the boundaries of technology and creativity.
+Coding, gaming, sci-fi movies, and indie projects fuel my passion for innovation.
 
 ---
 
